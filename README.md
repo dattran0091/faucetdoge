@@ -1,0 +1,2 @@
+# faucetdoge
+faucedoge auto
